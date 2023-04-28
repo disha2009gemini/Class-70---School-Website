@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+}
+
+.achievement{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    text-align: left;
+}
+ 
+.achievement i{
+    float: right;
+}
